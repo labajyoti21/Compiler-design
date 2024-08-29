@@ -1,0 +1,16 @@
+parser.tab.c
+parser.tab.h
+*.out
+lex.yy.c
+out*
+*.dot
+test.py
+*.csv
+backend
+X86.asm
+3AC.txt
+.vscode
+test.s
+test
+test.o
+test.s
